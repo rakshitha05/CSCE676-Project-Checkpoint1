@@ -31,7 +31,7 @@ benchmark dataset for graph mining research.
 - **Node Attributes:** None (structural analysis)
 
 Dataset link:  
-https://snap.stanford.edu/data/facebook_combined.html
+https://snap.stanford.edu/data/facebook_combined.txt.gz
 
 ---
 
