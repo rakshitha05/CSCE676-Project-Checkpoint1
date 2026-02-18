@@ -102,5 +102,19 @@ Potential extensions include:
 - Graph neural network methods
 
 
-## 🗂 Repository Structure
+##  Repository Structure
+
+---
+
+## ▶ Reproducibility
+
+The notebook automatically downloads the dataset from SNAP when needed.
+
+To run locally:
+
+```bash
+pip install pandas numpy networkx matplotlib scipy scikit-learn
+jupyter notebook
+
+
 
